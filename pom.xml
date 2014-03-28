@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.upv.ufasu</groupId>
   <artifactId>test_mvn_git</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>test_mvn_git</name>
   <url>http://maven.apache.org</url>
   <properties>
